@@ -4,7 +4,7 @@ Description: Misc code for Emory Political Science Math Camp 2014
 Version: 0.1
 Authors@R: "Jeffrey Arnold <jeffrey.arnold@gmail.com> [aut, cre]"
 Depends:
-    R (>= 3.0.2),
+    R (>= 3.0.0),
     shiny
 License: GPL-3
 LazyData: true
